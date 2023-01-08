@@ -3,3 +3,6 @@
 
 # Ignore python virtual env folder
 DataScienceEnv
+
+# Ignore DS online bootcamp folder
+bootcamp
