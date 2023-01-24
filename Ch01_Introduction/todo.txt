@@ -1,2 +1,8 @@
 LinkedIn Learning Data Analyis Course
 https://www.linkedin.com/learning/python-data-analysis-2
+
+Recap python
+
+Install software (anaconda distribution)
+
+Get textbook (murach data analysis)
